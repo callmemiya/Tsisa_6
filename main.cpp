@@ -4,7 +4,6 @@
 //
 //  Created by Мария Забродина on 19/12/2020.
 //  Copyright © 2020 Мария Забродина. All rights reserved.
-//
 
 #include <iostream>
 #include <random>
